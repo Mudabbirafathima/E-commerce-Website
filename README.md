@@ -1,5 +1,5 @@
 # E-commerce-Website
-A simple and responsive e-commerce web app showcasing core features like product listing, cart, and checkout. Built with HTML, CSS, and JS.  With user Authentication Functions (Create Account)
+#A simple and responsive e-commerce web app showcasing core features like product listing, cart, and checkout. Built with HTML, CSS, and JS.  With user Authentication Functions (Create Account)
 <!DOCTYPE html>
 <html lang="en">
 <head>
